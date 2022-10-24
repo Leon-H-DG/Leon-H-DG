@@ -11,6 +11,8 @@
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/leonhafner" rel="noFollow">LinkedIn</a>, <a href="mailto:leon.dalgrande.hafner@gmail.de">GMail</a>
 - 💬 Ask me about If you are interested in a website designed & developed by me!
 
+<p><strong>Languages and Tools:</strong></p>
+
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/28840761/89373851-5696c900-d71c-11ea-9fad-09e52584c77b.png">
 <img height="30" width="30" alt="python" src="https://user-images.githubusercontent.com/28840761/89373851-5696c900-d71c-11ea-9fad-09e52584c77b.png" style="max-width: 100%;"></img>
