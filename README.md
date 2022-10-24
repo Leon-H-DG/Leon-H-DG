@@ -32,5 +32,29 @@
 </a>
 &nbsp;&nbsp;&nbsp;
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/28840761/89373852-5696c900-d71c-11ea-8d90-b469310bd189.png">
-<img height="30" width="30" alt="react" src="https://user-images.githubusercontent.com/28840761/89373852-5696c900-d71c-11ea-8d90-b469310bd189.png"" style="max-width: 100%;"></img>
+<img height="30" width="30" alt="react" src="https://user-images.githubusercontent.com/28840761/89373852-5696c900-d71c-11ea-8d90-b469310bd189.png" style="max-width: 100%;"></img>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/28840761/89373834-51d21500-d71c-11ea-8799-b80a6c095b67.png">
+<img height="30" width="30" alt="apache-maven" src="https://user-images.githubusercontent.com/28840761/89373834-51d21500-d71c-11ea-8799-b80a6c095b67.png" style="max-width: 100%;"></img>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/28840761/89373845-55659c00-d71c-11ea-827a-a381e836e1d8.png">
+<img height="30" width="30" alt="jenkins" src="https://user-images.githubusercontent.com/28840761/89373845-55659c00-d71c-11ea-827a-a381e836e1d8.png" style="max-width: 100%;"></img>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/28840761/89373842-54cd0580-d71c-11ea-9643-e145b5c4e727.png">
+<img height="30" width="30" alt="git" src="https://user-images.githubusercontent.com/28840761/89373842-54cd0580-d71c-11ea-9643-e145b5c4e727.png" style="max-width: 100%;"></img>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/28840761/89373837-53034200-d71c-11ea-8a99-a1c965213ebf.png">
+<img height="30" width="30" alt="cucumber" src="https://user-images.githubusercontent.com/28840761/89373854-572f5f80-d71c-11ea-8368-3846394b1948.png" style="max-width: 100%;"></img>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/28840761/89373854-572f5f80-d71c-11ea-8368-3846394b1948.png">
+<img height="30" width="30" alt="selenium" src="https://user-images.githubusercontent.com/28840761/89373837-53034200-d71c-11ea-8a99-a1c965213ebf.png" style="max-width: 100%;"></img>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/28840761/89373848-55fe3280-d71c-11ea-93d1-b677877922e5.png">
+<img height="30" width="30" alt="postgres" src="https://user-images.githubusercontent.com/28840761/89373848-55fe3280-d71c-11ea-93d1-b677877922e5.png" style="max-width: 100%;"></img>
 </a>
