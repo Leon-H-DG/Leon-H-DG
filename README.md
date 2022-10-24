@@ -10,3 +10,16 @@
 - 🤔 I’m looking for help with improving SEO skills.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/leonhafner" rel="noFollow">LinkedIn</a>, <a href="mailto:leon.dalgrande.hafner@gmail.de">GMail</a>
 - 💬 Ask me about If you are interested in a website designed & developed by me!
+
+
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/28840761/89373851-5696c900-d71c-11ea-9fad-09e52584c77b.png">
+<img height="30" width="30" alt="python" src="https://user-images.githubusercontent.com/28840761/89373851-5696c900-d71c-11ea-9fad-09e52584c77b.png" style="max-width: 100%;"></img>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/28840761/89373844-54cd0580-d71c-11ea-8525-e618ed8e029d.png">
+<img height="30" width="30" alt="java" src="https://user-images.githubusercontent.com/28840761/89373844-54cd0580-d71c-11ea-8525-e618ed8e029d.png" style="max-width: 100%;"></img>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/28840761/89373852-5696c900-d71c-11ea-8d90-b469310bd189.png">
+<img height="30" width="30" alt="react" src="https://user-images.githubusercontent.com/28840761/89373852-5696c900-d71c-11ea-8d90-b469310bd189.png"" style="max-width: 100%;"></img>
+</a>
