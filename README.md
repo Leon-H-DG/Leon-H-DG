@@ -1,9 +1,8 @@
-### Hi there 👋
+### Hey, I'm Leon 👋
 
-
-**Leon-H-DG/Leon-H-DG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<a target="_blank" rel="noopener noreferrer nofollow"  href="https://camo.githubusercontent.com/a5ef27d31fcac394d0eb19816078f3d6070088fe789d861d18f9bfe4b9c3233e/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d4268617261744b616d6d616b61746c61266c6162656c3d566965777326636f6c6f723d626c7565267374796c653d666f722d7468652d6261646765">
+<img src="https://camo.githubusercontent.com/a5ef27d31fcac394d0eb19816078f3d6070088fe789d861d18f9bfe4b9c3233e/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d4268617261744b616d6d616b61746c61266c6162656c3d566965777326636f6c6f723d626c7565267374796c653d666f722d7468652d6261646765" alt="LeonHafner" data-canonical-src="https://komarev.com/ghpvc/?username=Leon-H-DG&label=Views&color=blue&style=for-the-badge" style="max-width: 100%;"></img>
+</a>
 
 - 🔭 I’m currently working on Front-end Web-Developing.
 - 🌱 I’m currently learning Styling with Preprocessors like SASS.
