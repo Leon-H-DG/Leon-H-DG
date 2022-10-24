@@ -1,7 +1,7 @@
 <h1>Hey, I'm <a href="https://leonhafner.com/" rel="nofollow">Leon</a>
   <animated-image data-catalyst style="width: 30px;">
     <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" data-target="animated-    image.originalLink">
-      <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" style="max-width: 100%; max-height:100%; display: inline-block;" data-target="animated-image.originalImage">
+      <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" style="max-width: 20%; max-height:100%; display: inline-block;" data-target="animated-image.originalImage">
       </img>
     </a>
   </animated-image>
