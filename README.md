@@ -9,8 +9,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Styling with Preprocessors like SASS.
 - 👯 I’m looking to collaborate on Front-End Development projects.
 - 🤔 I’m looking for help with improving SEO skills.
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/leonhafner" rel="noFollow">LinkedIn</a>, <a href="mailto:leon.dalgrande.hafner@gmail.de">GMail</a>
 - 💬 Ask me about ...
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/leonhafner" rel="noFollow">LinkedIn</a>
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
